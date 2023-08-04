@@ -1,4 +1,4 @@
-//public package com.examly.springapp.dao;
+package com.examly.springapp.dao;
 
 import java.util.List;
 import java.util.Optional;
@@ -68,6 +68,4 @@ public class TaskController {
         return "Task deleted";
     }
 
-} TaskController {
-    
 }
